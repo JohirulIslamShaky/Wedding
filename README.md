@@ -1,2 +1,2 @@
 # Wedding web template
-Click Live link : https://johirulshaky.github.io/Wedding/
+source code download: https://github.com/johirulshaky/wedding/archive/refs/tags/1.0.zip
